@@ -17,8 +17,7 @@ class HomePage extends StatelessWidget {
         padding: EdgeInsets.all(16),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment:
-              CrossAxisAlignment.center, // علشان العناصر تتوسّط أفقيًا
+          crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             Padding(
               padding: const EdgeInsets.only(bottom: 25),
@@ -42,7 +41,7 @@ class HomePage extends StatelessWidget {
                 SizedBox(width: 20),
                 Expanded(
                   child: Image.network(
-                    "https://cdn.shopify.com/s/files/1/0070/7032/files/shop-track-orders.jpg?v=1587665563",
+                    "https://cdn.shopify.com/s/files/1/0070/7032/files/new-shop-pay.jpg?v=1587665275",
                     height: 250,
                   ),
                 ),

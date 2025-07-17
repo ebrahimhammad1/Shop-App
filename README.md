@@ -17,6 +17,28 @@ A Flutter app showcasing clothing products with cart functionality and localizat
 
 ---
 
+## Screenshots
+
+### 1. Login Page (English)
+![Login EN](screenshots/login_en.png)
+
+### 2. Login Page (Arabic)
+![Login AR](screenshots/login_ar.png)
+
+### 3. Sign Up Page
+![Sign Up](screenshots/signup_en.png)
+
+### 4. Success Dialog (Login Successful)
+![Login Success Dialog](screenshots/login_success_dialog.png)
+
+### 5. Products Page (Top Section)
+![Products Top](screenshots/products_top.png)
+
+### 6. Products Page (Bottom - Hot Offers)
+![Products Bottom](screenshots/products_bottom.png)
+
+---
+
 ## 📁 Project Structure
 
 lib/

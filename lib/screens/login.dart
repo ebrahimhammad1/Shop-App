@@ -14,6 +14,7 @@ class Login extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.white,
       appBar: AppbarWidegts(appbarText: "login".tr()),
       body: Center(
         child: Form(
