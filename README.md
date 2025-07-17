@@ -1,21 +1,4 @@
-<<<<<<< HEAD
-# flutter_application_5
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # 🛍️ Shop-App
 
 A Flutter app showcasing clothing products with cart functionality and localization support (Arabic/English).
@@ -116,4 +99,3 @@ This Flutter application was developed as part of a summer internship provided b
 
 👨‍💻 Author
 Developed by Ibrahim Hammad
->>>>>>> 8e5587ac412411d7a6a4cab75a754f9b4ae9c817
